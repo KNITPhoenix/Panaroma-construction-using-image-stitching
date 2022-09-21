@@ -9,3 +9,5 @@ The goal of this project is to stitch two images (named \left.jpg" and \right.jp
 (5) Use the homography matrix to stitch the two given images into a single panorama.
 
 # Note: Use opencv == 3.4.2.17
+
+!["left image"](https://github.com/KNITPhoenix/Panaroma-construction-using-image-stitching/blob/main/left.jpg?raw=true)
