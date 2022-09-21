@@ -10,4 +10,11 @@ The goal of this project is to stitch two images (named \left.jpg" and \right.jp
 
 # Note: Use opencv == 3.4.2.17
 
+# Left Image
 !["left image"](https://github.com/KNITPhoenix/Panaroma-construction-using-image-stitching/blob/main/left.jpg?raw=true)
+
+# Right Image
+!["right image"](https://github.com/KNITPhoenix/Panaroma-construction-using-image-stitching/blob/main/right.jpg?raw=true)
+
+# Result Image
+!["result image"](https://github.com/KNITPhoenix/Panaroma-construction-using-image-stitching/blob/main/task1_result.jpg?raw=true)
